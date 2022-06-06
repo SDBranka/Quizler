@@ -10,9 +10,8 @@
 
 
 <p float="center">
-    <img src="https://github.com/SDBranka/Flash_Card_Learner/blob/main/images/Screenshot0.png" width=30% alt="front of card" />
-    <img src="https://github.com/SDBranka/Flash_Card_Learner/blob/main/images/Screenshot1.png" width=30% alt="back of card" />
-    <img src="https://github.com/SDBranka/Flash_Card_Learner/blob/main/images/Screenshot2.png" width=30% alt="no more cards in series" />
+    <img src="https://github.com/SDBranka/Quizler/blob/main/images/Screenshot0.png" width=45% alt="question image" />
+    <img src="https://github.com/SDBranka/Quizler/blob/main/images/Screenshot1.png" width=45% alt="end of game image" />
 </p>
 
 ## Description
