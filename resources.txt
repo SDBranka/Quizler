@@ -1,0 +1,18 @@
+open trivia database
+https://opentdb.com/
+
+HTML Entities
+https://www.w3schools.com/html/html_entities.asp
+
+FreeFormatter HTML Escape / Unescape
+https://www.freeformatter.com/html-escape.html
+
+Decode HTML entities in Python string
+https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string
+
+Version of Canvas create_text() that supports word wrap
+https://stackoverflow.com/questions/4121362/version-of-canvas-create-text-that-supports-word-wrap
+
+Python | after method in Tkinter
+https://www.geeksforgeeks.org/python-after-method-in-tkinter/
+
